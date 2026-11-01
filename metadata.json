@@ -1,0 +1,8 @@
+{
+  "name": "Remix MCC - Minecraft Compiler",
+  "description": "Online Minecraft mod compilation platform. Analyze Fabric, Forge, and NeoForge projects, execute builds, stream real-time logs, and download verified JAR artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
